@@ -28,7 +28,7 @@ app.get('/getMessagePage', (request, response) => {
 });
 
 
-// Http GET + Response
+// Http + Response
 app.get('/helloFirebase', (request, response) => {
 
     // Grab the 'text' parameter
